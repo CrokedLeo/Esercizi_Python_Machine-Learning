@@ -1,0 +1,9 @@
+---traccia gioco---
+
+Scrivete un gioco in cui il giocatore 1 inserisce un
+numero da 1 a 100 e il giocatore2 ha 5 tentativi per
+indovinare il numero.
+Il programma fornisce suggerimenti (troppo alto,
+troppo basso), termina quando l'utente indovina
+correttamente, quando i tentativi finiscono o se
+scrive «mi arrendo».

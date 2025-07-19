@@ -1,0 +1,21 @@
+N. cliente,nome,cognome,nascita,residenza
+1,Francesca,Rossi,1999-9-8,Veneto
+2,Francesca,Russo,2012-5-13,Piemonte
+3,Davide,Esposito,2011-5-6,Piemonte
+4,Davide,Costa,1981-12-4,Campania
+5,Davide,Russo,2000-6-3,Sicilia
+6,Sara,Verdi,2002-5-13,Sicilia
+7,Paolo,Fontana,2010-5-19,Piemonte
+8,Giorgio,Gallo,2000-4-7,Campania
+9,Marco,Romano,2015-11-11,Sicilia
+10,Giorgio,Fontana,1993-9-17,Campania
+11,Giorgio,Gallo,1995-12-11,Lazio
+12,Sara,Bianchi,1982-12-28,Sicilia
+13,Paolo,Bianchi,2003-10-2,Lombardia
+14,Giulia,Rossi,1996-7-18,Veneto
+15,Sara,Bianchi,2001-10-28,Lazio
+16,Giulia,Fontana,2007-6-7,Toscana
+17,Sara,Verdi,2001-6-21,Lombardia
+18,Davide,Verdi,1993-11-1,Toscana
+19,Sara,Fontana,1988-3-2,Puglia
+20,Francesca,Romano,1989-3-26,Sicilia

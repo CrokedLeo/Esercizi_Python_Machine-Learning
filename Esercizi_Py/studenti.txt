@@ -1,0 +1,3 @@
+{'nome': 'ciccio', 'voti': [30, 18, 25]}
+{'nome': 'mario rossi', 'voti': [30.0, 25.0]}
+{'nome': 'marco carola', 'voti': [30.0]}
